@@ -4,13 +4,15 @@
 
 Packages of **LogisticsHandlingRobot** Repo
 
-`STM32F103ZET6`  主控的Keil工程文件夹
-
 `OPENMV4`  Openmv代码
 
-`pic`  存放图片
+`STM32F103ZET6`  主控的Keil工程文件夹
+
+`USART_HMI` 存放串口屏的工程文件
 
 `doc`  存放相关硬件、外设文档
+
+`pic`  存放图片
 
 `structure` 存放结构相关的文件
 
