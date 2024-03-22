@@ -52,7 +52,7 @@ All of out hardware information can be found in `doc` directory.
 
 ## 5. PCB projects 🔨
 
-Here is part of our PCB projects, plz feel free to clone:
+Here is part of our PCB projects, plz feel free to clone:  
 [2022广东省工训工创赛 物流搬运机器人](https://oshwhub.com/menhimchan/new-project)
 
 ## 6. See our VedioClip 👇
